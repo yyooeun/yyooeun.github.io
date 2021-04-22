@@ -1,0 +1,53 @@
+html{
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 20px o;
+    font-size:70px;
+    font-weight: normal;
+    font-family: 'Noto Serif KR', serif;
+}
+
+h2{    
+    text-align: left;
+    margin: 0;
+    padding: 20px o;
+    font-size:30px;
+    font-weight: normal;
+    font-family: 'Noto Serif KR', serif;
+
+}
+
+.main{
+    text-align: center;
+    font-size:16px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.main{
+    color: red;
+}
+
+.links{
+    color: forestgreen;
+    margin-left: 25px;
+    font-size: 30px;
+}
